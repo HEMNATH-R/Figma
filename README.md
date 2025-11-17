@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-##page 1
+## page 1
 ```python
 <div style="width: 376px; height: 631px"></div>
 <img style="width: 345px; height: 52px" src="https://via.placeholder.com/345x52" />
@@ -47,7 +47,7 @@ Figma
   <div style="color: black; font-size: 24px; font-family: Inknut Antiqua; font-weight: 400; word-wrap: break-word">REGISTER</div>
 </div>
 ```
-##page 2 
+## page 2 
 ```python
 <img style="width: 376px; height: 631px" src="https://via.placeholder.com/376x631" />
 <div style="width: 184px; height: 111px; color: white; font-size: 48px; font-family: Jua; font-weight: 400; word-wrap: break-word">EVENTS<br/></div>
@@ -60,7 +60,7 @@ Figma
 <img style="width: 335.05px; height: 49.17px" src="https://via.placeholder.com/335x49" />
 ```
 
-##page 3
+## page 3
 ```python
 <img style="width: 375px; height: 631px" src="https://via.placeholder.com/375x631" />
 <img style="width: 348px; height: 49px" src="https://via.placeholder.com/348x49" />
@@ -89,7 +89,7 @@ Figma
 <div style="width: 156px; height: 27px; text-align: right; color: #008E9D; font-size: 32px; font-family: Lisu Bosa; font-weight: 700; word-wrap: break-word">SUBMIT</div>
 ```
 
-##page 4
+## page 4
 ```python
 <img style="width: 347px; height: 50px" src="https://via.placeholder.com/347x50" />
 <img style="width: 375px; height: 968px" src="https://via.placeholder.com/375x968" />
